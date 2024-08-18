@@ -1,6 +1,9 @@
 # build output
 dist/
 
+# types
+.astro/
+
 # dependencies
 node_modules/
 
